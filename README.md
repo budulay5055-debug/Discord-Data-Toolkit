@@ -10,9 +10,9 @@ Gelişmiş Terminal Arayüzü: 29 farklı renk temasıyla özelleştirilebilir l
 
 📋 Gereksinimler
 Çalıştırmak için şu kütüphanelere ihtiyaç duyar:
-colorama ve colorist 
-requests 
-tls-client 
+colorama ve colorist, 
+requests, 
+tls-client, 
 websocket-client
 
 📥 Kurulum ve Kullanım
